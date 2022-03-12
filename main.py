@@ -1,1 +1,2 @@
-print("My first project. Yeah!!!")
+
+print(list(range(1, 51)))
